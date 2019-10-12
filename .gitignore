@@ -4,3 +4,4 @@ __pycache__/
 *.csv
 *.pyc
 .chatbot_test.py
+chatbot-env/
