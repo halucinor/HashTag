@@ -5,7 +5,11 @@ __pycache__/
 *.csv
 *.pyc
 .chatbot_test.py
+<<<<<<< HEAD
 *.model
 .DS_Store
 =======
 >>>>>>> Stashed changes
+=======
+chatbot-env/
+>>>>>>> gitignore changed
