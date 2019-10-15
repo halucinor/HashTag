@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 .chatbot_test.py
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.model
 .DS_Store
 =======
@@ -13,3 +14,8 @@ __pycache__/
 =======
 chatbot-env/
 >>>>>>> gitignore changed
+=======
+chatbot-env/
+hanspell/
+.vscode/
+>>>>>>> 맞춤법 검사
