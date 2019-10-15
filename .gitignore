@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 .chatbot_test.py
 chatbot-env/
+hanspell/
+.vscode/
