@@ -7,6 +7,7 @@ __pycache__/
 .chatbot_test.py
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.model
 .DS_Store
 =======
@@ -19,3 +20,8 @@ chatbot-env/
 hanspell/
 .vscode/
 >>>>>>> 맞춤법 검사
+=======
+chatbot-env/
+hanspell/
+.vscode/
+>>>>>>> ff0f4a2caab2066e09cf21f5fe637dc3382ce67e
